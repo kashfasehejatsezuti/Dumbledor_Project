@@ -3,9 +3,9 @@
 
 Type these commands in the project folder
 
-1. ng serve to run the project.
+1.  ng serve .
 
-2. json-server --watch db.json
+2.  json-server --watch db.json
 
 # Dumbledore
 
