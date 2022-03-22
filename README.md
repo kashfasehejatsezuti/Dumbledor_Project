@@ -1,3 +1,12 @@
+
+# Run the project
+
+Type these commands in the project folder
+
+1. ng serve to run the project.
+
+2. json-server --watch db.json
+
 # Dumbledore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
