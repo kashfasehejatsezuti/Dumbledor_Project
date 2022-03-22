@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ApiService } from '../../shared/api.service';
-import { FormBuilder,FormGroup,Validators } from '@angular/forms';
+import { FormBuilder,FormGroup} from '@angular/forms';
 import { AllieshuffModel } from './hufflepuff.model';
 
 @Component({
