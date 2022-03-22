@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder,FormGroup,Validators } from '@angular/forms';
+import { FormBuilder,FormGroup} from '@angular/forms';
 import { ApiService } from '../../shared/api.service';
 import { AlliesModel } from './gryffindor.model';
 
